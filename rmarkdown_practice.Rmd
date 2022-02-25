@@ -29,8 +29,12 @@ urlcolor: blue
 
 # Section
 
-Section CDS 101
+__Section CDS 101__
 
 #Course Goals
+
+By the end of the course, students will be able to:
+
++ Use Github for creating a reproducible document.
 
 
