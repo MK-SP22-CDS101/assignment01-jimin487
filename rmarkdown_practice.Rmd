@@ -35,8 +35,8 @@ __Section CDS 101__
 
 By the end of the course, students will be able to:
 
-+ Use [Github](https://github.com/) for creating a reproducible document.
++ Use [Github](https://github.com/) for creating a reproducible document.  
 
-  My Github username is: *jimin487*
+   ***(My Github username is: *jimin487*)***
 
 
