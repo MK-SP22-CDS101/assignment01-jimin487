@@ -37,7 +37,7 @@ By the end of the course, students will be able to:
 
 + Use [Github](https://github.com/) for creating a reproducible document.  
 
-   -My Github username is: *jimin487*
+   >My Github username is: *jimin487*
    
 + Obtain, clean, transform, and visualize a dataset using the R programming language.
 
@@ -48,5 +48,15 @@ By the end of the course, students will be able to:
 #Including Code
 
 ## Running R code in a code chunk
+
+```{r}
+x<-2+2 
+x+3
+```
+
+
+
+
+
 
 
