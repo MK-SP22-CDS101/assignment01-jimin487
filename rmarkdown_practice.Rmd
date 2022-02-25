@@ -62,6 +62,11 @@ been saved for future use.
 
 ##Displaying Graphs
 
+```{r}
+ggplot2::qplot(data=iris, x= Sepal.Length, y= Sepal.Width)
+```
+
+
 
 
 
